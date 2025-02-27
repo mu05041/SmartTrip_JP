@@ -1,4 +1,4 @@
-# :airplane: 모여(모두의 여행)
+# :airplane: モヨ（みんなの旅行）
 <p>
    <img src="/images/image_app_main.png" width="400" style="margin: 8px" />
 </p>
@@ -76,7 +76,7 @@
 &nbsp;
 
 ## ⚙️ インストールおよび実行方法
-[설치하기](https://drive.google.com/file/d/1pwaC5GvA7D3yUQyj7aO5U54MtsPCQXXq/view?usp=drive_link)
+[インストール](https://drive.google.com/file/d/1pwaC5GvA7D3yUQyj7aO5U54MtsPCQXXq/view?usp=drive_link)
 
 &nbsp;
 
